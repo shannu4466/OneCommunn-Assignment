@@ -1,14 +1,14 @@
 import { Component } from 'react';
-import Header from './components/Header/Header.jsx';
+import Header from './components/Header/Header';
 import Home from './components/Home/Home';
-import ProductCategories from './components/ProductCategories/ProductCategories.jsx';
-import Segments from './components/Segments/Segments.jsx';
-import TrendingProducts from './components/TrendingProducts/TrendingProducts.jsx';
-import InteriorDesign from './components/interior/InteriorDesign.jsx';
-import ProcessPage from './components/ProcessPage/ProcessPage.jsx';
-import About from './components/About/About.jsx';
-import WhyViber from './components/WhyViber/WhyViber.jsx';
-import Footer from './components/Footer/Footer.jsx';
+import ProductCategories from './components/ProductCategories/ProductCategories';
+import Segments from './components/Segments/Segments';
+import TrendingProducts from './components/TrendingProducts/TrendingProducts';
+import InteriorDesign from './components/interior/InteriorDesign';
+import ProcessPage from './components/ProcessPage/ProcessPage';
+import About from './components/About/About';
+import WhyViber from './components/WhyViber/WhyViber';
+import Footer from './components/Footer/Footer';
 
 import './App.css';
 
