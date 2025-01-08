@@ -9,7 +9,7 @@ class InteriorDesign extends Component {
         <p>Kitchen Interior - Let us help you design your kitchen. Leave the worry of mixing and matching furniture behind. Set up your<br/>
         space confidently by purchasing the complete look for a seamless experience.</p>
         <button>Know More</button>
-        <img src="\src\assets\interiorDesign.png"/>
+        <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348458/interiorDesign_javkfk.png"/>
       </div>
     );
   }

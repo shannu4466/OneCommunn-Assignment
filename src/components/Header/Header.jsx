@@ -7,7 +7,7 @@ class Header extends Component {
       <header className="header">
         <nav>
           <div className="logo">
-            <img src="src\assets\logo.png" alt="Logo" />
+            <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348452/logo_gmv0ou.png" alt="Logo" />
           </div>
           <div className="menu">
             <ul>
@@ -24,10 +24,10 @@ class Header extends Component {
           </div>
           <div className="user-actions">
             <i>
-              <img src="src\assets\Frame.png"/>
+              <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348459/Frame_n3btsy.png"/>
             </i>
             <i>
-              <img src="src\assets\usericon.png"/>
+              <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348459/usericon_eo5igb.png"/>
             </i>
           </div>
         </nav>

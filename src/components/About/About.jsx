@@ -27,12 +27,12 @@ class About extends Component {
           </div>
           <div className='about-images'>
             <div className='about-image-grids'>
-              <img src="/src/assets/about1.png" className='img1'/>
-              <img src="/src/assets/about3.png" className='img3'/>
+              <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348452/about1_kg7pi2.png" className='img1'/>
+              <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348453/about3_uxyxl2.png" className='img3'/>
             </div>
             <div className='about-image-grids'>
-              <img src="/src/assets/about2.png" className='img2'/>
-              <img src="/src/assets/about4.png" className='img4'/>
+              <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348452/about2_yvrox4.png" className='img2'/>
+              <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348452/about4_n0uf4p.png" className='img4'/>
             </div>
           </div>
         </div>

@@ -5,13 +5,13 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-container">
         <div className="footer-left">
-          <img src="/src/assets/logo.png" alt="Logo" className="footer-logo" />
+          <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348452/logo_gmv0ou.png" alt="Logo" className="footer-logo" />
           <p className="footer-text">
             Your dream space deserves the best execution, and that’s where United Buildpro Pvt Ltd excels. Our construction services encompass everything from foundational work to structural builds, tailored to residential, commercial, and industrial needs. We pride ourselves on using high-quality materials and advanced techniques to ensure durability and efficiency in every project we undertake.
           </p>
           <div className="social-icons">
-            <i><img src="/src/assets/instagram.png"/></i>
-            <i><img src="/src/assets/linkedin.png"/></i>
+            <i><img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348454/instagram_vjr4dd.png"/></i>
+            <i><img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348455/linkedin_rur7bt.png"/></i>
           </div>
         </div>
 
@@ -44,7 +44,7 @@ const Footer = () => {
       <div className="footer-bottom">
         <p>2024 © All rights reserved - Cozy Comfort</p>
         <div className="payment">
-          <img src="src/assets/payments.png"/>
+          <img src="https://res.cloudinary.com/drjvxkwkq/image/upload/v1736348453/payments_ikbrrd.png"/>
         </div>
       </div>
     </footer>
