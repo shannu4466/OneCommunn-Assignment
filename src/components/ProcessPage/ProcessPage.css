@@ -1,0 +1,54 @@
+.process-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .process-title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .steps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .step {
+    padding: 20px;
+    width: 40%;
+    text-align: left;
+    display: flex;
+  }
+  
+  .step h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .step img{
+    margin-right: 20px;
+  }
+
+  .step p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+  }
+  
+  @media (max-width: 768px) {
+    .steps {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .step {
+      width: 100%;
+      max-width: 400px;
+    }
+  }
+  

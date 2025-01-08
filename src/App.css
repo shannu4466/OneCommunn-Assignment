@@ -1,0 +1,54 @@
+/* Global responsive styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  font-family: 'Inter', sans-serif;
+}
+
+main {
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+/* Footer styles */
+.footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 4rem;
+}
+
+/* Responsive breakpoints */
+/* Large Desktop */
+@media screen and (min-width: 1440px) {
+  main {
+    padding: 0 2rem;
+  }
+}
+
+/* Desktop */
+@media screen and (max-width: 1200px) {
+  main {
+    padding: 0 1.5rem;
+  }
+}
+
+/* Tablet */
+@media screen and (max-width: 992px) {
+  main {
+    padding: 0 1rem;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 576px) {
+  main {
+    padding: 0 0.5rem;
+  }
+}
