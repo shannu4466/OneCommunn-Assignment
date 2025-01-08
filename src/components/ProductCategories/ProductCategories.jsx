@@ -3,12 +3,12 @@ import './ProductCategories.css';
 
 class ProductCategories extends Component {
   categories = [
-    { id: 1, name: 'Living Room', image: 'src/assets/Living.png' },
-    { id: 2, name: 'Dining', image: 'src/assets/dining.png' },
-    { id: 3, name: 'Bed Room', image: 'src/assets/bedroom.png' },
-    { id: 4, name: 'Office', image: 'src/assets/office.png' },
-    { id: 5, name: 'Storage', image: 'src/assets/storage.png' },
-    { id: 6, name: 'Study Room', image: 'src/assets/study.png' }
+    { id: 1, name: 'Living Room', image: 'public/assets/Living.png' },
+    { id: 2, name: 'Dining', image: 'public/assets/dining.png' },
+    { id: 3, name: 'Bed Room', image: 'public/assets/bedroom.png' },
+    { id: 4, name: 'Office', image: 'public/assets/office.png' },
+    { id: 5, name: 'Storage', image: 'public/assets/storage.png' },
+    { id: 6, name: 'Study Room', image: 'public/assets/study.png' }
   ];
 
   render() {

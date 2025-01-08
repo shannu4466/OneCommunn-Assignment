@@ -4,14 +4,14 @@ import './TrendingProducts.css';
 class TrendingProducts extends Component {
   state = {
     products: [
-      { id: 1, name: 'Luxury Bed Set', image: 'src/assets/trendin/bedsheet.png' },
-      { id: 2, name: 'Luxury Sofa Set', image: 'src/assets/trendin/sofa.png' },
-      { id: 3, name: 'Luxury Dining Table', image: 'src/assets/trendin/dining.png' },
-      { id: 4, name: 'Luxury Bed Set', image: 'src/assets/trendin/bedsheet2.png' },
-      { id: 5, name: 'Elegant Candle Set', image: 'src/assets/trendin/candleset.png' },
-      { id: 6, name: 'Elegant Sofa Set', image: 'src/assets/trendin/sofaset.png' },
-      { id: 7, name: 'Fruit Platter', image: 'src/assets/trendin/fruitplatter.png' },
-      { id: 8, name: 'Elegant Candle set', image: 'src/assets/trendin/candle.png' }
+      { id: 1, name: 'Luxury Bed Set', image: 'public/assets/trendin/bedsheet.png' },
+      { id: 2, name: 'Luxury Sofa Set', image: 'public/assets/trendin/sofa.png' },
+      { id: 3, name: 'Luxury Dining Table', image: 'public/assets/trendin/dining.png' },
+      { id: 4, name: 'Luxury Bed Set', image: 'public/assets/trendin/bedsheet2.png' },
+      { id: 5, name: 'Elegant Candle Set', image: 'public/assets/trendin/candleset.png' },
+      { id: 6, name: 'Elegant Sofa Set', image: 'public/assets/trendin/sofaset.png' },
+      { id: 7, name: 'Fruit Platter', image: 'public/assets/trendin/fruitplatter.png' },
+      { id: 8, name: 'Elegant Candle set', image: 'public/assets/trendin/candle.png' }
     ]
   };
 

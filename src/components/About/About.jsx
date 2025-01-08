@@ -27,12 +27,12 @@ class About extends Component {
           </div>
           <div className='about-images'>
             <div className='about-image-grids'>
-              <img src="/src/assets/about1.png" className='img1'/>
-              <img src="/src/assets/about3.png" className='img3'/>
+              <img src="/public/assets/about1.png" className='img1'/>
+              <img src="/public/assets/about3.png" className='img3'/>
             </div>
             <div className='about-image-grids'>
-              <img src="/src/assets/about2.png" className='img2'/>
-              <img src="/src/assets/about4.png" className='img4'/>
+              <img src="/public/assets/about2.png" className='img2'/>
+              <img src="/public/assets/about4.png" className='img4'/>
             </div>
           </div>
         </div>
